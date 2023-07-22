@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-log="https://sincroguia-tv.expansion.com/uploads/images/r/e/a/realmadrid-tv.jpg"group-title="Spain",Real Madrid tv
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:-1 tvg-log="https://www.elconfidencialdigital.com/asset/thumbnail,1280,720,center,center/media/elconfidencialdigital/images/2016/01/28/ECDIMA20160128_0010_1.jpg"group-title="Spain",TDT
+https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main_720.m3u8
